@@ -27,3 +27,52 @@
       text-align: center;
       padding-top: 4px;
   }
+
+  .cell_l {
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    border: 1px solid;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 4px;
+    margin-left: -1px;
+}
+
+.cell_l_t {
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    border: 1px solid;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 4px;
+    margin-left: -1px;
+    margin-top: -1px;
+}
+
+.cell_t {
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    border: 1px solid;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 4px;
+    margin-top: -1px;
+}
+
+  .verticalpart {
+    display:inline-block;
+    width: 33%;
+    background: rgb(15, 95, 161);
+    vertical-align: top;
+  }
+
+  .line {
+    display: flex;
+  flex-direction: row;
+  }
