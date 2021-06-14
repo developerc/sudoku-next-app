@@ -17,3 +17,6 @@ npm run dev
 //теперь можно запускать в браузере
 http://localhost:3000
 //получим стартовую страницу
+
+// Деплой на сервер Vercel
+https://sudoku-next-app.vercel.app/
